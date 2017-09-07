@@ -1,0 +1,20 @@
+{
+  "name": "data-structures",
+  "version": "0.0.1",
+  "description": "The common DataStructures which provides to used into the Js Application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "The JS-DataStructure."
+  ],
+  "author": {
+    "name": "Larry Pham",
+    "email": "larrypham.vn@gmail.com"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "license": "MIT"
+}
